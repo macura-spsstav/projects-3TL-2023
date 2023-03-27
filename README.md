@@ -11,5 +11,6 @@ This repository was created to hold data for educational purposes.
 | lukasdrab      | Výpočet délky ohybu nosníku | [Projekt-1](https://github.com/lukasdrab/Projekt-1) |
 | Ženíšek    | Fahrenheit na stupně | [PROJEKT-JS](https://github.com/gambler123/PROJEKT-JS) |
 | Krutina | K.A.P. | [Projekt–JS1](https://stepkr.github.io/Projekt-JS1/) |
+| Kroc | Výpočet kvadratické rovnice | [projekt](https://krocv.github.io/projekt/) |
 | ... | ... | ... |
 | ... | ... | ... |
