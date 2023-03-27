@@ -12,5 +12,6 @@ This repository was created to hold data for educational purposes.
 | Ženíšek    | Fahrenheit na stupně | [PROJEKT-JS](https://github.com/gambler123/PROJEKT-JS) |
 | Krutina | K.A.P. | [Projekt–JS1](https://stepkr.github.io/Projekt-JS1/) |
 | Kroc | Výpočet kvadratické rovnice | [projekt](https://krocv.github.io/projekt/) |
+| Candra | Projekt | [Projekt-JS] (https://JakubCandra.github.io/Projekt-JS/) |
 | ... | ... | ... |
 | ... | ... | ... |
