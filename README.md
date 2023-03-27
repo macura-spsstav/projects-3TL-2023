@@ -8,3 +8,4 @@ This repository was created to hold data for educational purposes.
 | Macura      | Ukázka | https://macura-spsstav.github.io/projekt-JS1/ |
 | ... | ... | ... |
 | ... | ... | ... |
+| ... | ... | ... |
