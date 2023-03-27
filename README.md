@@ -5,7 +5,6 @@ This repository was created to hold data for educational purposes.
 
 | Autor         | Projekt     | URL  |
 | ------------- |-------------| -----|
-| Macura      | Ukázka | [projekt-JS1](https://macura-spsstav.github.io/projekt-JS1/) |
 | Venda | Obvod kružnice | [projekt-JS](https://wendic11.github.io/projekt-JS/) |
 | Landová |Projekt IKT | [IKT-1](https://landovaa.github.io/IKT-1/) |
 | lukasdrab      | Výpočet délky ohybu nosníku | [Projekt-1](https://lukasdrab.github.io/Projekt-1/) |
