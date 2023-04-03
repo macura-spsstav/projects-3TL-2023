@@ -12,5 +12,5 @@ This repository was created to hold data for educational purposes.
 | Krutina | K.A.P. | [Projekt–JS1](https://stepkr.github.io/Projekt-JS1/) |
 | Kroc | Výpočet kvadratické rovnice | [projekt](https://krocv.github.io/projekt/) |
 | Candra | Projekt | [Projekt-JS](https://JakubCandra.github.io/Projekt-JS/) |
-| ... | ... | ... |
+| Demeter | DPH | [Projekt-js](https://fajlipp.github.io/Projekt-JS/) |
 | ... | ... | ... |
