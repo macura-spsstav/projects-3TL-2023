@@ -12,7 +12,5 @@ This repository was created to hold data for educational purposes.
 | Krutina | K.A.P. | [Projekt–JS1](https://stepkr.github.io/Projekt-JS1/) |
 | Kroc | Výpočet kvadratické rovnice | [projekt](https://krocv.github.io/projekt/) |
 | Candra | Projekt | [Projekt-JS](https://JakubCandra.github.io/Projekt-JS/) |
-| Krejča | Láhev | [Projekt-JS](https://tomastomastomastomastomas.github.io/Projekt-JS1/) |
-| Demeter | DPH | [Projekt-js](https://fajlipp.github.io/Projekt-JS/) |
-| Drnek | Projekt | [Project-JSS](https://github.com/DavidDrnek/project-jss.git) |
+| Tolar | Výpočet maximálního napětí v prutu | [PROJEKT-JS1](https://hoza5.github.io/PROJEKT-JS1/) |
 | ... | ... | ... |
