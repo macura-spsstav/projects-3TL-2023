@@ -20,4 +20,5 @@ This repository was created to hold data for educational purposes.
 | matasovaa | Obsah čtverce a obdélníku | [projekt-JS.](https://matasovaa.github.io/projekt-JS./) |
 | Peroutkovap | Objem krychle | [Projekt-JS.](https://peroutkovap.github.io/Projekt-JS./) |
 | Smid05 | Objem krychle | [Projekt-JS](https://github.com/Smid05/Projekt-JS) * |
+| Filipová | Kalorimetrická rovnice |  [Projekt-JS1](https://ivushfff.github.io/Projekt-JS1/)|
 | Vebrová | objem a obsah koule | https://wrste13.github.io/Projekt-JS-po-etn--p--klad/ |
